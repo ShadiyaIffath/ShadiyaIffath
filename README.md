@@ -17,18 +17,30 @@ A passionate software engineer on a mission to turn lines of code into meaningfu
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
-### My Stats
+### :nerd_face: My Stats
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadiyaIffath&show_icons=true&theme=tokyonight&card_width=320" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaIffath&hide=jupyter%20notebook,css,scss,html,less&theme=tokyonight&layout=donut&card_width=320" />
 </div>
 
+### :handshake: Lets Connect 
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/shadiya-iffath">
+		<img src="https://img.shields.io/badge/-Shadiya%20Iffath-blue?style=flat&logo=Linkedin&logoColor=white"/>
+	</a>
+	<a href="mailto:shadiya.iffath98@gmail.com">
+		<img src="https://img.shields.io/badge/-shadiya.iffath98-c14438?style=flat&logo=Gmail&logoColor=white"/>
+	</a>
+</div>
 <!--
 **ShadiyaIffath/ShadiyaIffath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &hide=javascript,css,scss,html&theme=tokyonight
 Here are some ideas to get you started:
 
+
+[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
