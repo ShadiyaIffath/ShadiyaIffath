@@ -19,12 +19,9 @@ A passionate software engineer on a mission to turn lines of code into meaningfu
 
 ### My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadiyaIffath&show_icons=true&theme=tokyonight&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaIffath&hide=jupyter%20notebook,css,scss,html,less&theme=tokyonight&layout=donut&card_width=320" />
-</a>
 
 
 <!--
