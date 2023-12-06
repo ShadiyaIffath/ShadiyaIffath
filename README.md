@@ -20,7 +20,7 @@ A passionate software engineer on a mission to turn lines of code into meaningfu
 ### :nerd_face: My Stats
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadiyaIffath&show_icons=true&theme=tokyonight&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShadiyaIffath&show_icons=true&theme=tokyonight&card_width=320&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadiyaIffath&hide=jupyter%20notebook,css,scss,html,less&theme=tokyonight&layout=donut&card_width=320" />
 </div>
 
