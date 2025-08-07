@@ -2,7 +2,7 @@
 
 ## ✨ I am Shadiya Iffath ✨ 
 
-A passionate software engineer on a mission to turn lines of code into meaningful solutions. With a strong foundation in computer science and a love for problem-solving, I thrive in the dynamic world of software development.
+A software engineer on a mission to turn lines of code into meaningful solutions. With a strong foundation in computer science and a love for problem-solving, I thrive in the dynamic world of software development.
 
 <div align="center">
   <code><img width="20" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
